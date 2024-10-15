@@ -1,2 +1,11 @@
-# Dialogue-hub-using-React.js
-TeamsClone is a powerful, real-time chat application inspired by Microsoft Teams. Built with React and powered by Chat Engine, this project demonstrates how to create a production-ready collaborative platform with modern web technologies.
+# Welcome!
+
+
+## Introduction
+
+This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
+
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
+
+Its a good example of learning react and creating something production ready!
+
